@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SHIKH FARHEEN
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning IT knowledge
+- 🌱 I’m currently learning IT skills
 - 💞️ I’m looking to JOB
 
 <!---
